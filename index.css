@@ -139,7 +139,7 @@ p a {
 }
 @media screen and (max-width: 600px) {
   .login-sigup_tab {
-    margin-bottom:2.2rem;
+    margin-bottom:2.1rem;
   }
   .login-sigup_tab > * button {
     padding: 1rem 2rem;
@@ -150,7 +150,7 @@ p a {
   }
   form .input-container {
     gap: 1rem;
-    margin-bottom: 2.2rem;
+    margin-bottom: 2.1rem;
   }
   .submit-btn {
     padding: 1rem 1.5rem;

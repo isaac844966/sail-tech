@@ -44,7 +44,7 @@ h1 {
 }
 .form-container {
   border-radius: var(--rounded);
-  padding: 3rem;
+  padding: 4rem 3rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -139,19 +139,18 @@ p a {
 }
 @media screen and (max-width: 600px) {
   .login-sigup_tab {
-    margin-bottom: var(--margin-small);
+    margin-bottom:2.5rem;
   }
   .login-sigup_tab > * button {
     padding: 1rem 2rem;
   }
   .form-container {
     width: 90vw;
-    padding: 2rem 0.7rem;
-    height: 60vh;
+    padding: 3rem 0.7rem;
   }
   form .input-container {
     gap: 1rem;
-    margin-bottom: var(--margin-small);
+    margin-bottom: 2.5rem;
   }
   .submit-btn {
     padding: 1rem 1.5rem;
